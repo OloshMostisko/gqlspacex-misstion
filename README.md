@@ -1,6 +1,6 @@
 # How to Fatch SpaceX Launches misstion data using GraphQL
 ## Sample
-
+![alt text](https://github.com/OloshMostisko/gqlspacex-misstion/blob/main/public/image/img1.PNG)
 
 ## Available Scripts
 
