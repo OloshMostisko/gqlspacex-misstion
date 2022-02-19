@@ -4,6 +4,16 @@
 ### End Point
 
 https://api.spacex.land/graphql/
+### Query
+
+```sql
+{
+  launchesPast(limit: 10) {
+    id
+    mission_name
+  }
+}
+```
 
 ## Available Scripts
 
